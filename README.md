@@ -43,4 +43,4 @@ Include your code here
 
 
 ## RESULT
-Thus a Danjo application is successfully developed to store and retrive data from a database using object realtion mapping
+Thus a Django application is successfully developed to store and retrive data from a database using object realtion mapping
