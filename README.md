@@ -40,9 +40,8 @@ Include your code here
 
 ## OUTPUT
 
-![Screenshot 2023-05-07 111902](![240855977-229d0234-cc21-42a1-afb5-892c6a82df8b](https://github.com/Surya-ram/ORM/assets/122000311/9a2b2728-c779-4dbf-b562-853299069606)
-)
+![Screenshot 2023-05-07 111902](https://user-images.githubusercontent.com/128462891/236660311-d6a7c13f-800b-41d7-b4d4-4034c1058ad6.png)
 
 
 ## RESULT
-Thus a Django application is successfully developed to store and retrive data from a database using object realtion mapping
+Thus a Danjo application is successfully developed to store and retrive data from a database using object realtion mapping
